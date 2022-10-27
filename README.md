@@ -1,2 +1,1 @@
-# RUAP-PROJEKTNEW
-LV1
+„Moj repozitorij za kolegij RUAP“
